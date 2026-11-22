@@ -15,3 +15,10 @@ A simple Python project for analyzing store sales.
 - Python
 - CSV
 - JSON
+
+## Learning Goals
+
+- Practice Python programming
+- Learn Git and GitHub
+- Work with real-world data
+- Build data analysis projects
