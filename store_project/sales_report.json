@@ -1,0 +1,40 @@
+{
+    "sales": [
+        {
+            "product": "Laptop",
+            "category": "Electronics",
+            "price": 30000000,
+            "quantity": 2,
+            "revenue": 60000000
+        },
+        {
+            "product": "Mouse",
+            "category": "Electronics",
+            "price": 500000,
+            "quantity": 5,
+            "revenue": 2500000
+        },
+        {
+            "product": "Book",
+            "category": "Education",
+            "price": 200000,
+            "quantity": 10,
+            "revenue": 2000000
+        },
+        {
+            "product": "Phone",
+            "category": "Electronics",
+            "price": 20000000,
+            "quantity": 3,
+            "revenue": 60000000
+        },
+        {
+            "product": "Notebook",
+            "category": "Education",
+            "price": 100000,
+            "quantity": 20,
+            "revenue": 2000000
+        }
+    ],
+    "total_revenue": 126500000
+}
